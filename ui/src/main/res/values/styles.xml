@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 主题 -->
+<resources>
+
+    <style name="TextAppearance.Active" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/caption</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Inactive" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/caption</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

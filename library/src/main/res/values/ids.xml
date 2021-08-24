@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fixed_footer" type="id" />
+    <item name="fixed_header" type="id" />
+    <item name="translation_footer" type="id" />
+    <item name="translation_header" type="id" />
+</resources>
